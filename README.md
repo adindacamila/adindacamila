@@ -14,7 +14,7 @@ Thank you for taking the time to learn more about me. Let's embark on this journ
 
 ### Github Statistic
 <p align="left">
-<a href="https://github.com/penuliscode">
+<a href="https://github.com/adindacamila">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=adindacamila&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adindacamila&layout=compact&layout=compact&theme=algolia"/>
 </a>
